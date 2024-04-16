@@ -1,2 +1,6 @@
-<div id="game"></div>
-<script src="main.js"></script>
+Simple ping pong game made with vanilla JS
+
+Leave a ⭐ if you like it :)
+
+---------------------------------
+Free for use
